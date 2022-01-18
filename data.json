@@ -1,0 +1,228 @@
+{
+    "cacheName": {
+        "FB-5082617838437870": "GAME - AFIVE",
+        "FB-509698340": "Anh Viet",
+        "FB-100013024230907": "Kiều Minh Quân",
+        "FB-100014861139544": "Nguyễn Trung Kiên",
+        "FB-100029308300189": "Huy Bùi",
+        "FB-100035055378811": "Đoàn Xuân Bách",
+        "FB-100058441823559": "Kiều TuấnAnh",
+        "FB-100073157272401": "Lê Thiện",
+        "FB-100074098608670": "Xuân Bách",
+        "FB-100074387847807": "Anh Viet",
+        "FB-100076580267898": "Người dùng Facebook",
+        "FB-4323307661106356": "Nhóm Giao Lưu Và Học Hỏi",
+        "FB-100016717592718": "Quang Thắng",
+        "FB-100035268724894": "Hưng",
+        "FB-100067957118302": "Diggory Long"
+    },
+    "cacheNameExpires": {
+        "FB-509698340": 1642700118948,
+        "FB-100013024230907": 1642700118948,
+        "FB-100014861139544": 1642700118948,
+        "FB-100029308300189": 1642700118948,
+        "FB-100035055378811": 1642700118948,
+        "FB-100058441823559": 1642700118948,
+        "FB-100073157272401": 1642700118948,
+        "FB-100074098608670": 1642700118948,
+        "FB-100074387847807": 1642700118948,
+        "FB-100076580267898": 1642700118948,
+        "FB-5082617838437870": 1642700118948,
+        "FB-100016717592718": 1642699304440,
+        "FB-100035268724894": 1642699304440,
+        "FB-100067957118302": 1642699304440,
+        "FB-4323307661106356": 1642699304440
+    },
+    "everyoneTagBlacklist": {},
+    "createGroupCooldown": {},
+    "arrowChat": {
+        "FB-5082617838437870": {},
+        "FB-4323307661106356": {},
+        "FB-509698340": {}
+    },
+    "BotManager": {},
+    "rbclist": {},
+    "userLanguage": {
+        "FB-509698340": "ja"
+    },
+    "simsimiList": {},
+    "countchat": {
+        "realtimedata": {},
+        "save": {
+            "times": {}
+        },
+        "active": []
+    },
+    "deathtag": {},
+    "denyCommand": [],
+    "disabledThread": [],
+    "ecoGambling": {
+        "blackjack": {}
+    },
+    "rouletteData": {},
+    "economyIncome": {
+        "config": {
+            "payout": {
+                "work": {
+                    "min": 15000000,
+                    "max": 20000000
+                },
+                "slut": {
+                    "min": 30000000,
+                    "max": 45000000
+                },
+                "crime": {
+                    "min": 60000000,
+                    "max": 85000000
+                },
+                "lottery": {
+                    "min": 850000000,
+                    "max": 1000000000
+                }
+            },
+            "fineamount": {
+                "slut": {
+                    "min": 25000000,
+                    "max": 40000000
+                },
+                "crime": {
+                    "min": 55000000,
+                    "max": 80000000
+                },
+                "lottery": {
+                    "min": 85000000,
+                    "max": 100000000
+                }
+            },
+            "failrate": {
+                "slut": 10,
+                "crime": 20,
+                "lottery": 90
+            },
+            "cooldown": {
+                "work": 5,
+                "slut": 5,
+                "crime": 5,
+                "lottery": 3,
+                "rob": 3600
+            }
+        },
+        "data": {
+            "work": {},
+            "slut": {},
+            "crime": {},
+            "lottery": {},
+            "rob": {},
+            "minting": {
+                "amountPerMinute": 10,
+                "userData": {}
+            }
+        }
+    },
+    "economyGrid": {
+        "freight": {},
+        "cooldown": {}
+    },
+    "economy": {
+        "FB-509698340": "0n"
+    },
+    "economyStart": "0n",
+    "economyTX": [],
+    "giftcode": {},
+    "GoogleTranslate": {},
+    "lottery": {},
+    "Note": {},
+    "picarrow": {
+        "509698340": {},
+        "5082617838437870": {},
+        "4323307661106356": {}
+    },
+    "piccommand": {},
+    "toggleThanos": {
+        "509698340": true,
+        "5082617838437870": false,
+        "4323307661106356": true
+    },
+    "thanosMessageData": {
+        "mid.$cAABbBHw321uEheR3J1-VJ8ldVpdq": {
+            "type": "message",
+            "senderID": "509698340",
+            "body": "/help transfer",
+            "threadID": "509698340",
+            "messageID": "mid.$cAABbBHw321uEheR3J1-VJ8ldVpdq",
+            "attachments": [],
+            "mentions": {},
+            "timestamp": "1642097225511",
+            "isGroup": false
+        },
+        "mid.$cAABbBHw321uEheSD71-VJ86CTvpA": {
+            "type": "message_reply",
+            "threadID": "509698340",
+            "messageID": "mid.$cAABbBHw321uEheSD71-VJ86CTvpA",
+            "senderID": "100074387847807",
+            "attachments": [],
+            "body": "/transfer\r\nundefined\r\n\n<>: 必須\n[]: 必要ない",
+            "isGroup": false,
+            "mentions": {},
+            "timestamp": 1642097228783,
+            "messageReply": {
+                "threadID": "509698340",
+                "messageID": "mid.$cAABbBHw321uEheR3J1-VJ8ldVpdq",
+                "senderID": "509698340",
+                "attachments": [],
+                "body": "/help transfer",
+                "isGroup": false,
+                "mentions": {},
+                "timestamp": 1642097225511
+            }
+        },
+        "mid.$cAABbBHw321uEheUIZl-VJ-21FtPR": {
+            "type": "message",
+            "senderID": "509698340",
+            "body": "Prefix",
+            "threadID": "509698340",
+            "messageID": "mid.$cAABbBHw321uEheUIZl-VJ-21FtPR",
+            "attachments": [],
+            "mentions": {},
+            "timestamp": "1642097262694",
+            "isGroup": false
+        },
+        "mid.$cAABbBHw321uEheURBF-VJ_GzpG56": {
+            "type": "message_reply",
+            "threadID": "509698340",
+            "messageID": "mid.$cAABbBHw321uEheURBF-VJ_GzpG56",
+            "senderID": "100074387847807",
+            "attachments": [],
+            "body": "Đây là C3C Bot, hoạt động dưới Prefix \"/\"\n Sử dụng lệnh \"/help [trang số]\" để xem các lệnh có sẵn.",
+            "isGroup": false,
+            "mentions": {},
+            "timestamp": 1642097264900,
+            "messageReply": {
+                "threadID": "509698340",
+                "messageID": "mid.$cAABbBHw321uEheUIZl-VJ-21FtPR",
+                "senderID": "509698340",
+                "attachments": [],
+                "body": "Prefix",
+                "isGroup": false,
+                "mentions": {},
+                "timestamp": 1642097262694
+            }
+        }
+    },
+    "eXPerience": {
+        "xp": {
+            "509698340": 42,
+            "100074387847807": 38,
+            "100016717592718": 2
+        },
+        "checkRankCooldown": {},
+        "xpPerAction": 1
+    },
+    "tagg": {},
+    "fbBannedUsers": [],
+    "messageList": {},
+    "facebookChatGroupList": [
+        "5082617838437870",
+        "4323307661106356"
+    ]
+}
